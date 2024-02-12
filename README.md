@@ -4,5 +4,5 @@ This is a demo for git and github class!
 # teacher!
 This is me!
 
-#std 
+# std 
 hello me!
